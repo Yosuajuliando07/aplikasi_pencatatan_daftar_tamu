@@ -12,9 +12,22 @@
 email: admin@gmail.com
 password: admin123
 
-# Halaman
-![Halaman List Tamu](https://drive.google.com/file/d/1GUJd3azWQFkxIf4M8Wmbi0SVafwZHDDQ/view?usp=share_link)
+# Halaman 
 
+## Halaman List Tamu
+![Halaman List Tamu](https://raw.githubusercontent.com/Yosuajuliando07/aplikasi_pencatatan_daftar_tamu/master/Screenshot%20(1077).png)
+
+## Halaman Tambah Tamu
+![Halaman Tambah Tamu](https://raw.githubusercontent.com/Yosuajuliando07/aplikasi_pencatatan_daftar_tamu/master/Screenshot%20(1078).png)
+
+## Halaman Edit Tamu
+![Halaman Edit Tamu](https://raw.githubusercontent.com/Yosuajuliando07/aplikasi_pencatatan_daftar_tamu/master/Screenshot%20(1079).png)
+
+## Halaman Detail Tamu
+![Halaman Detail Tamu](https://raw.githubusercontent.com/Yosuajuliando07/aplikasi_pencatatan_daftar_tamu/master/Screenshot%20(1080).png)
+
+## Halaman Hapus Tamu
+![Halaman Hapus Tamu](https://raw.githubusercontent.com/Yosuajuliando07/aplikasi_pencatatan_daftar_tamu/master/Screenshot%20(1081).png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
